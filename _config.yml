@@ -83,11 +83,11 @@ author:
   name             : "Yuzhong Gong"
   avatar           : "profile.png"
   bio              : "Postdoctoral Fellow"
-  location         : "Saskatoon, Saskatchewan"
-  employer         : "University of Saskatchewan"
+  location         : "Saskatoon, SK, Canada"
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=9k-1AloAAAAJ&hl=en"
-  email            :
+  email            : "y.z.gong@usask.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
