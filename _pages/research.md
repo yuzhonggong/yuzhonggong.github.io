@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
 
-
-### Research Experience
 
 -- **NSERC Senior Industrial Research Chair (IRC) in Smart Grid Technologies (2016-2020)**
 - Real-time evaluation of power system operational adequacy with wind power ramp limits;
