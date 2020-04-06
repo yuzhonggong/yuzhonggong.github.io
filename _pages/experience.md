@@ -12,4 +12,4 @@ author_profile: true
 ### Professional Experience
 * Postdoctoral Fellow, *University of Saskatchewan*, Supervisor: [Prof. C.Y. Chung](https://engineering.usask.ca/people/ece/Chung,Chi-Yung.php), Mar. 2015 - Present.
 
-* Visiting Scholar, *University of Texas at Austin*, Supervisor: [Prof. Ross Baldick](http://users.ece.utexas.edu/~baldick/), Jan. 2014 - Jul. 2014.
+* Visiting Scholar, *University of Texas at Austin*, Supervisor: [Prof. Ross Baldick](https://users.ece.utexas.edu/~baldick/), Jan. 2014 - Jul. 2014.
