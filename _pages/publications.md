@@ -21,12 +21,11 @@ author_profile: true
 
 1. **Y. Gong**, Q. Jiang, and R. Baldick, “Ramp event forecast based wind power ramp control with energy storage system”, *IEEE Transactions on Power Systems*, vol. 31, no. 3, pp. 1831-1844, May 2016.
 
-1. Q. Jiang, **Y. Gong** and H. Wang, “A battery energy storage system dual-layer control strategy for mitigating wind farm fluctuations”, *IEEE Transactions on Power Systems*, vol. 28, no. 3, pp. 3263-3273, Aug. 2013.
+1. Q. Jiang and **Y. Gong**, “Review of wind power integration control with energy storage technology”, *Power System Technology*, vol. 39, no. 12, pp. 3360-3368, Dec. 2015.
 
 1. **Y. Gong**, H. Wang, and Q. Jiang, “Dynamic optimization of wind power ramp limitation based on power system frequency deviation”, *Power System Technology*, vol. 39, no. 9, pp. 2377-2384, Sep. 2015.
 
-1. Q. Jiang and **Y. Gong**, “Review of wind power integration control with energy storage technology”, *Power System Technology*, vol. 39, no. 12, pp. 3360-3368, Dec. 2015.
-
+1. Q. Jiang, **Y. Gong** and H. Wang, “A battery energy storage system dual-layer control strategy for mitigating wind farm fluctuations”, *IEEE Transactions on Power Systems*, vol. 28, no. 3, pp. 3263-3273, Aug. 2013.
 
 
 ### Conference Papers
