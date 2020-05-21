@@ -11,7 +11,7 @@ author_profile: true
 
 ### Journal Papers
 
-1. O. A. Ansari, **Y. Gong**, W. Liu, and C.Y. Chung, “Data-driven operational risk assessment of wind integrated power systems via mixture models and importance sampling”, *Journal of Modern Power Systems and Clean Energy*, In Press, 2020.  (Invited Paper)
+1. O. A. Ansari, **Y. Gong**, W. Liu, and C.Y. Chung, “Data-driven operational risk assessment of wind integrated power systems via mixture models and importance sampling”, *Journal of Modern Power Systems and Clean Energy*, vol. 8, no. 3, pp. 437-447, May 2020.
 
 1. W. Liu, **Y. Gong**, G. Geng, and Q. Jiang, “Reﬁned ramp event characterisation for wind power ramp control using energy storage system”, *IET Renewable Power Generation*, vol. 13, no. 10, pp. 1731-1740, Jul. 2019.
 
