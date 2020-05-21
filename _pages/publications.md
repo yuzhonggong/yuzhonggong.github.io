@@ -13,6 +13,8 @@ author_profile: true
 
 1. O. A. Ansari, **Y. Gong**, W. Liu, and C.Y. Chung, “Data-driven operational risk assessment of wind integrated power systems via mixture models and importance sampling”, *Journal of Modern Power Systems and Clean Energy*, vol. 8, no. 3, pp. 437-447, May 2020.
 
+1. L. Zhong, L. Guan, J. Zhang, **Y. Gong**, and C.Y. Chung, “Distributed reactive power regulation considering load voltage and power loss”, *IEEE Access*, vol. 8, pp. 24334-24343, Jan. 2020.
+
 1. W. Liu, **Y. Gong**, G. Geng, and Q. Jiang, “Reﬁned ramp event characterisation for wind power ramp control using energy storage system”, *IET Renewable Power Generation*, vol. 13, no. 10, pp. 1731-1740, Jul. 2019.
 
 1. **Y. Gong**, C.Y. Chung, and R.S. Mall, “Power system operational adequacy evaluation with wind power ramp limits”, *IEEE Transactions on Power Systems*, vol. 33, no. 3, pp. 2706-2716, May 2018.
